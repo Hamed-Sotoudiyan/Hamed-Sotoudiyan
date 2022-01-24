@@ -20,9 +20,9 @@ Admin Panel - Contact Service - Diverse Api - Web Scraping - Regex - Bootstrap -
  
  Work samples : 
     
-    [mas1](https://zehne-aram.ir/) 
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://zehne-aram.ir/) 
     
-    mas2(http://fooladsazanjouybar.ir/)
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](http://fooladsazanjouybar.ir/)
 
 2.sadsadsadsadsadasdsadasdsadad
 
