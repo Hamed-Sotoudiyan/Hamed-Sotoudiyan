@@ -26,11 +26,15 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 
 *2.HR expert and member of programmers recruiment team , Hasin Group ,  Feb2020-June2020:*
 
+  [<img src='https://hasin.ir/' alt='github' height='40'>](https://hasin.ir/)
+  
   Designing a unique network for analyzing and reviewing resumes under the recruitee.com, Recruitment interviewer.
   
 
 *3.ERP-Project manager , Amasys Company , Oct2018-Feb2019:*
  
+  [<img src='http://amasys.ir/IMAGES/AMASYS-e1552395235470.png' alt='github' height='40'>](http://amasys.ir/)
+  
   Management Dashboard Designer,BI Analyzer,Project manager
   
 
