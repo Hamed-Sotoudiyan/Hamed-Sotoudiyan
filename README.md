@@ -15,7 +15,7 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 ---------------------------------------------------------------------------------------------------
 ### Work Experiences :
 
-*Python/Django developer , Freelancer , Jun2020-Now :*
+*1.Python/Django developer , Freelancer , Jun2020-Now :*
   
   Admin Panel - Contact Service - Diverse Api - Web Scraping - Regex - Bootstrap - MySql - User Panel - Online Payment Page - ...
   
@@ -23,15 +23,18 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
     [<img src='https://zehne-aram.ir/static/img/logo1.png' alt='github' height='40'>](https://zehne-aram.ir/)
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](http://fooladsazanjouybar.ir/)
 
-*HR expert and member of programmers recruiment team , Hasin Group ,  Feb2020-June2020:*
+
+*2.HR expert and member of programmers recruiment team , Hasin Group ,  Feb2020-June2020:*
 
   Designing a unique network for analyzing and reviewing resumes under the recruitee.com, Recruitment interviewer.
   
- *ERP-Project manager , Amasys Company , Oct2018-Feb2019:*
+
+*3.ERP-Project manager , Amasys Company , Oct2018-Feb2019:*
  
   Management Dashboard Designer,BI Analyzer,Project manager
   
- *HTML5 & JS(Angular) developer , Amasys Company , Aug2017-Oct2018:*
+
+*4.HTML5 & JS(Angular) developer , Amasys Company , Aug2017-Oct2018:*
  
   Senior developer, Design and implementation of Financial & warehouse & production software
 
