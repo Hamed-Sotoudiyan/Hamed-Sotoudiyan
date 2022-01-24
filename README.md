@@ -46,7 +46,7 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
   
   Main Project : Investigation About Barriers To Launching Technological Startups in Iran (Under supervision of Dr.Hejazi)  
   
-    [<img src='https://ut.ac.ir/images/www/fa/website/site-logo/2019/1574765900-ut-logo.png' alt='github' height='40'>](https://ut.ac.ir/en)
+  [<img src='https://ut.ac.ir/images/www/fa/website/site-logo/2019/1574765900-ut-logo.png' alt='github' height='40'>](https://ut.ac.ir/en)
     
 *2.B.Sc. in Computer Engineering:*
 
