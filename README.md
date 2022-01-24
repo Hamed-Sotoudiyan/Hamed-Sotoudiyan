@@ -13,15 +13,28 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hamed-Sotoudiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamed-sotoudiyan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13000007/hamed-sotoudiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Hamed-Sotoudiyan)  
 
 ---------------------------------------------------------------------------------------------------
-### Work Experiences :###
+### Work Experiences :
 
 *Python/Django developer , Freelancer , Jun2020-Now :*
+  
   Admin Panel - Contact Service - Diverse Api - Web Scraping - Regex - Bootstrap - MySql - User Panel - Online Payment Page - ...
+  
   Sample Work : 
     [<img src='https://zehne-aram.ir/static/img/logo1.png' alt='github' height='40'>](https://zehne-aram.ir/)
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](http://fooladsazanjouybar.ir/)
 
-*HR expert and member of Programmers recruitment team
+*HR expert and member of programmers recruiment team , Hasin Group ,  Feb2020-June2020:*
+
+  Designing a unique network for analyzing and reviewing resumes under the recruitee.com, Recruitment interviewer.
+  
+ *ERP-Project manager , Amasys Company , Oct2018-Feb2019:*
+ 
+  Management Dashboard Designer,BI Analyzer,Project manager
+  
+ *HTML5 & JS(Angular) developer , Amasys Company , Aug2017-Oct2018:*
+ 
+  Senior developer, Design and implementation of Financial & warehouse & production software
+
 ---------------------------------------------------------------------------------------------------
 
 
