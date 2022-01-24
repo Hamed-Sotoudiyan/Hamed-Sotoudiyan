@@ -21,7 +21,7 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
   
   Sample Work : 
     [<img src='https://zehne-aram.ir/static/img/logo1.png' alt='github' height='40'>](https://zehne-aram.ir/)
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](http://fooladsazanjouybar.ir/)
+    [<img src='http://fooladsazanjouybar.ir/static/img/Factory/Logo1.jpg' alt='github' height='40'>](http://fooladsazanjouybar.ir/)
 
 
 *2.HR expert and member of programmers recruiment team , Hasin Group ,  Feb2020-June2020:*
