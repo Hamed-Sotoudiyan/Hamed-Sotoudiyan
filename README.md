@@ -36,6 +36,8 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 
 *4.HTML5 & JS(Angular) developer , Amasys Company , Aug2017-Oct2018:*
  
+  [<img src='http://amasys.ir/IMAGES/AMASYS-e1552395235470.png' alt='github' height='40'>](http://amasys.ir/)
+  
   Senior developer, Design and implementation of Financial & warehouse & production software
 
 ---------------------------------------------------------------------------------------------------
