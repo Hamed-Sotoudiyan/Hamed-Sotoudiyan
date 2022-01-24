@@ -53,7 +53,7 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
   Main Project : Optimization Studying with Ant Colony Algorithms & NetLogo (Under supervision of Prof.Eslam Nazemi) / 
   Selected honored student of Shahid Beheshti University (2015)  
   
-  [<img src='https://www.sbu.ac.ir/documents/46019/275501/logo.png/5d69c688-0f3b-5b96-32fe-c360d1b304a7?t=1598103950079' alt='github' height='40'>](http://en.sbu.ac.ir/SitePages/Home.aspx)
+  [<img src='http://en.sbu.ac.ir/_catalogs/masterpage/image/logo.png' alt='github' height='40'>](http://en.sbu.ac.ir/SitePages/Home.aspx)
 
 *3.High School Diploma:*
  
