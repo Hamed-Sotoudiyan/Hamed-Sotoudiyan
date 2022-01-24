@@ -19,9 +19,9 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
   
   Sample Work : 
     
-    (https://zehne-aram.ir/)
+    [](https://zehne-aram.ir/)
     
-    (http://fooladsazanjouybar.ir/)
+    [](http://fooladsazanjouybar.ir/)
 
 ---------------------------------------------------------------------------------------------------
 
