@@ -16,8 +16,12 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 ### Work Experiences :
 
 1.Python/Django developer , Freelancer , Jun2020-Now :
+  
   Sample Work : 
-    A charity site : (https://zehne-aram.ir/ )
+    
+    (https://zehne-aram.ir/)
+    
+    (http://fooladsazanjouybar.ir/)
 
 ---------------------------------------------------------------------------------------------------
 
