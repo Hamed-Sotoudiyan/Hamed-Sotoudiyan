@@ -19,8 +19,11 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 Admin Panel - Contact Service - Diverse Api - Web Scraping - Regex - Bootstrap - MySql - User Panel - Online Payment Page - ... 
  
  Work samples : 
-    mas1(https://zehne-aram.ir/) 
+    
+    [mas1](https://zehne-aram.ir/) 
+    
     mas2(http://fooladsazanjouybar.ir/)
+
 2.sadsadsadsadsadasdsadasdsadad
 
 ---------------------------------------------------------------------------------------------------
