@@ -40,6 +40,29 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 
 ---------------------------------------------------------------------------------------------------
 
+### Education :
+
+*1.Master in Technology Entrepreneurship :*
+  
+  Main Project : Investigation About Barriers To Launching Technological Startups in Iran (Under supervision of Dr.Hejazi)  
+  
+    [<img src='https://ut.ac.ir/images/www/fa/website/site-logo/2019/1574765900-ut-logo.png' alt='github' height='40'>](https://ut.ac.ir/en)
+    
+*2.B.Sc. in Computer Engineering:*
+
+  Main Project : Optimization Studying with Ant Colony Algorithms & NetLogo (Under supervision of Prof.Eslam Nazemi) / 
+  Selected honored student of Shahid Beheshti University (2015)  
+  
+  [<img src='https://www.sbu.ac.ir/documents/46019/275501/logo.png/5d69c688-0f3b-5b96-32fe-c360d1b304a7?t=1598103950079' alt='github' height='40'>](http://en.sbu.ac.ir/SitePages/Home.aspx)
+
+*3.High School Diploma:*
+ 
+  Mathematics and Physics  
+  
+  [<img src='https://sampad.gov.ir/wp-content/uploads/2021/03/logo_txt3.svg' alt='github' height='40'>](https://sampad.gov.ir/)
+
+---------------------------------------------------------------------------------------------------
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
