@@ -26,7 +26,7 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 
 *2.HR expert and member of programmers recruiment team , Hasin Group ,  Feb2020-June2020:*
 
-  [<img src='https://hasin.ir/images/address.png' alt='github' height='40'>](https://hasin.ir/)
+  [<img src='https://hasin.ir/images/about.webp' alt='github' height='40'>](https://hasin.ir/)
   
   Designing a unique network for analyzing and reviewing resumes under the recruitee.com, Recruitment interviewer.
   
