@@ -13,9 +13,11 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hamed-Sotoudiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamed-sotoudiyan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13000007/hamed-sotoudiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Hamed-Sotoudiyan)  
 
 ---------------------------------------------------------------------------------------------------
-### Work Experiences : ###
+### Work Experiences :
 
-npm i @codersrank/work-experience --save
+1.Python/Django developer , Freelancer , Jun2020-Now :
+  Sample Work : 
+    A charity site : (https://zehne-aram.ir/ )
 
 ---------------------------------------------------------------------------------------------------
 
