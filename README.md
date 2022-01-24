@@ -17,14 +17,9 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 
 1.Python/Django developer , Freelancer , Jun2020-Now :  
 Admin Panel - Contact Service - Diverse Api - Web Scraping - Regex - Bootstrap - MySql - User Panel - Online Payment Page - ... 
- 
- Work samples : 
-    
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://zehne-aram.ir/) 
-    
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](http://fooladsazanjouybar.ir/)
 
-2.sadsadsadsadsadasdsadasdsadad
+
+2.
 
 ---------------------------------------------------------------------------------------------------
 
