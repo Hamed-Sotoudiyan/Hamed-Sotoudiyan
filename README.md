@@ -18,8 +18,8 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 1.Python/Django developer , Freelancer , Jun2020-Now :
   
   Sample Work : 
-    [](https://zehne-aram.ir/)
-    [](http://fooladsazanjouybar.ir/)
+    [<img src='https://zehne-aram.ir/static/img/logo1.png' alt='github' height='40'>](https://zehne-aram.ir/)
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](http://fooladsazanjouybar.ir/)
 
 ---------------------------------------------------------------------------------------------------
 
