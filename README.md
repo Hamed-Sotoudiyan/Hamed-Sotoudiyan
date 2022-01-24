@@ -15,11 +15,7 @@ Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular
 ---------------------------------------------------------------------------------------------------
 ### Work Experiences : ###
 
-1.Python/Django developer , Freelancer , Jun2020-Now :  
-Admin Panel - Contact Service - Diverse Api - Web Scraping - Regex - Bootstrap - MySql - User Panel - Online Payment Page - ... 
-
-
-2.
+npm i @codersrank/work-experience --save
 
 ---------------------------------------------------------------------------------------------------
 
