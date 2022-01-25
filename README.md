@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Hamed Sotoudiyan
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is Hamed Sotoudiyan
 #### Python/Django Developer - Data Analyst
 ![Python/Django Developer - Data Analyst](https://media-exp1.licdn.com/dms/image/C5616AQHIv8Tb9foolg/profile-displaybackgroundimage-shrink_200_800/0/1636213577066?e=1648684800&v=beta&t=7QO-rCgU-RoILNc3QaJanzuWprD5RDNsx2Orss-WUg4)
 
