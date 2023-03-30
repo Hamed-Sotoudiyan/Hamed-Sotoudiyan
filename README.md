@@ -21,21 +21,29 @@ Skills: Python / Django / Django REST Framework GIT / PostgreSQL / Celery / Boot
 
 *1.Python/Django developer , Freelancer , Jun2020-Now :*
   
-  Admin Panel - Contact Service - Diverse Api - Web Scraping - Regex - Bootstrap - MySql - User Panel - Online Payment Page - ...
+        * Developed, tested, and debugged more than 10 websites (Online Shop, Industrial Website, Charity, and some Personal Websites)
+        * Designed and configured database and backend applications and programs
+        * Interactive in providing change requests, trouble reports, and requirements collection with the client.
+        * Managed code versioning with GitHub and deployment to staging and production servers.
+        * 3 online shops successfully eliminated rental fees and boosted sales by 3.2 percent.
+        * Worked on front-end frameworks like CSS Bootstrap for the development of web applications.
+        * Experienced in working with server-side technologies including database, restful API, and MVC design patterns.
+        * The response time of the web service in one of our projects was reduced by 30 percent.
+        * Trained and supervised 2 trainees, providing training support/guidance.
+        * Developed, tested, and debugged more than 10 websites (Online Shop, Industrial Website, Charity, and some Personal Websites) 
+        * Designed and configured database and backend applications and programs 
+        * Interactive in providing change requests, trouble reports, and requirements collection with the client. 
+        * Managed code versioning with GitHub and deployment to staging and production servers. 
+        * 3 online shops successfully eliminated rental fees and boosted sales by 3.2 percent. 
+        * Worked on front-end frameworks like CSS Bootstrap for the development of web applications. 
+        * Experienced in working with server-side technologies including database, restful API, and MVC design patterns. 
+        * The response time of the web service in one of our projects was reduced by 30 percent. 
+        * Trained and supervised 2 trainees, providing training support/guidance.
+        
+        Skills: Python (Programming Language) · Django · Object-Relational Mapping (ORM) · MySQL · Django REST Framework · OAuth · HTML · Git · Testing
   
-  Sample Work : 
-    [<img src='https://zehne-aram.ir/static/img/logo1.png' alt='github' height='40'>](https://zehne-aram.ir/)
-    [<img src='http://fooladsazanjouybar.ir/static/img/Factory/Logo1.jpg' alt='github' height='40'>](http://fooladsazanjouybar.ir/)
 
-
-*2.HR expert and member of programmers recruiment team , Hasin Group ,  Feb2020-June2020:*
-
-  [<img src='https://hasin.ir/images/about.webp' alt='github' height='40'>](https://hasin.ir/)
-  
-  Designing a unique network for analyzing and reviewing resumes under the recruitee.com, Recruitment interviewer.
-  
-
-*3.ERP-Project manager , Amasys Company , Oct2018-Feb2019:*
+*2.ERP-Project manager , Amasys Company , Oct2018-Feb2019:*
  
   [<img src='http://amasys.ir/IMAGES/AMASYS-e1552395235470.png' alt='github' height='40'>](http://amasys.ir/)
   
