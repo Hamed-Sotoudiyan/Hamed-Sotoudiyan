@@ -1,12 +1,16 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is Hamed Sotoudiyan
-#### Python/Django Developer - Data Analyst
-![Python/Django Developer - Data Analyst](https://media-exp1.licdn.com/dms/image/C5616AQHIv8Tb9foolg/profile-displaybackgroundimage-shrink_200_800/0/1636213577066?e=1648684800&v=beta&t=7QO-rCgU-RoILNc3QaJanzuWprD5RDNsx2Orss-WUg4)
+### Hi there , my name is Hamed Sotoudiyan
+#### Python/Django Developer
+![Python/Django Developer](https://media-exp1.licdn.com/dms/image/C5616AQHIv8Tb9foolg/profile-displaybackgroundimage-shrink_200_800/0/1636213577066?e=1648684800&v=beta&t=7QO-rCgU-RoILNc3QaJanzuWprD5RDNsx2Orss-WUg4)
 
-I know myself as a person who loves learning and the challenges associated with it. 
-Innovative, task driven professional with 5+ year experience in web design and development across diverse industries. 
-Also, I am Interested in Languages, whether human's or machine's.
+Backend (Python) developer with practical experience in the Django framework implementing range
+of business logics from E-commerce to Industrial, Personal, charity websites and others (more than 2
+years and 10 projects). Have worked in agile environments with teammates from 5 to 15 people. With
+5 years of experience and a zest for solving complex problems.
+Interested in Languages, whether human. or machine.
 
-Skills: Python / Django / Bootstrap / MySQL / Data Science / AI / ML/ JS(Angular) / Git / SharePoint
+Skills: Python / Django / Django REST Framework GIT / PostgreSQL / Celery / Bootstrap / 
+        Test / Docker / Django-extensions / Redis / Django-filter / OAuth
+        Django Debug Toolbar / ORM / DTL
 
 ---------------------------------------------------------------------------------------------------
 
