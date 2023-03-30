@@ -1,6 +1,5 @@
 ### Hi there , my name is Hamed Sotoudiyan
 #### Python/Django Developer
-![Python/Django Developer](https://media-exp1.licdn.com/dms/image/C5616AQHIv8Tb9foolg/profile-displaybackgroundimage-shrink_200_800/0/1636213577066?e=1648684800&v=beta&t=7QO-rCgU-RoILNc3QaJanzuWprD5RDNsx2Orss-WUg4)
 
 Backend (Python) developer with practical experience in the Django framework implementing range
 of business logics from E-commerce to Industrial, Personal, charity websites and others (more than 2
@@ -43,18 +42,15 @@ Skills: Python / Django / Django REST Framework GIT / PostgreSQL / Celery / Boot
         Skills: Python (Programming Language) · Django · Object-Relational Mapping (ORM) · MySQL · Django REST Framework · OAuth · HTML · Git · Testing
   
 
-*2.ERP-Project manager , Amasys Company , Oct2018-Feb2019:*
+*2.Senior HTML5 & JS(Angular) developer , Amasys Company , Aug2017-Apr2020:*
  
-  [<img src='http://amasys.ir/IMAGES/AMASYS-e1552395235470.png' alt='github' height='40'>](http://amasys.ir/)
-  
-  Management Dashboard Designer,BI Analyzer,Project manager
-  
+        * Created the back-end Warehouse, and production systems, and Created UI using Javascript and HTML5/CSS.
+        * The shipping time for loading and delivering the product was reduced by 8 percent with the software.
+        * Engaged in weekly project meetings and proposed imaginative solutions.
+        * Co-authored with 3 co-workers to establish backend conventions, principles, and patterns.
+        * Collaborated with the business team to better design products based on clients' needs ( 2 sessions weekly).
 
-*4.HTML5 & JS(Angular) developer , Amasys Company , Aug2017-Oct2018:*
- 
-  [<img src='http://amasys.ir/IMAGES/AMASYS-e1552395235470.png' alt='github' height='40'>](http://amasys.ir/)
-  
-  Senior developer, Design and implementation of Financial & warehouse & production software
+        Skills set: AngularJS, HTML, Microsoft SharePoint, ERP designing.
 
 ---------------------------------------------------------------------------------------------------
 
