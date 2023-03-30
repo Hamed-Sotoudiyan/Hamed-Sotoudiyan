@@ -55,25 +55,12 @@ Skills: Python / Django / Django REST Framework GIT / PostgreSQL / Celery / Boot
 ---------------------------------------------------------------------------------------------------
 
 ### Education :
-
-*1.Master in Technology Entrepreneurship :*
-  
-  Main Project : Investigation About Barriers To Launching Technological Startups in Iran (Under supervision of Dr.Hejazi)  
-  
-  [<img src='https://ut.ac.ir/images/www/fa/website/site-logo/2019/1574765900-ut-logo.png' alt='github' height='40'>](https://ut.ac.ir/en)
     
-*2.B.Sc. in Computer Engineering:*
+*1.Bachelor's degree - Computer Engineering - Shahid Beheshti University :*
 
-  Main Project : Optimization Studying with Ant Colony Algorithms & NetLogo (Under supervision of Prof.Eslam Nazemi) / 
-  Selected honored student of Shahid Beheshti University (2015)  
-  
-  [<img src='http://en.sbu.ac.ir/_catalogs/masterpage/image/logo.png' alt='github' height='40'>](http://en.sbu.ac.ir/SitePages/Home.aspx)
+  Main Project: Designing Scenarios for Coordination and Adaption Between Different Layers of Enterprise Information Technology and Simulating them With NetLogo Software - Under Supervision of: Prof.Eslam Nazemi 
 
-*3.High School Diploma:*
- 
-  Mathematics and Physics  
-  
-  [<img src='https://sampad.gov.ir/wp-content/uploads/2021/03/logo_txt3.svg' alt='github' height='40'>](https://sampad.gov.ir/)
+*2.High School Diploma - Mathematics and Physics - National Organization for Development of Exceptional Talents (Sampad):* 
 
 ---------------------------------------------------------------------------------------------------
 
