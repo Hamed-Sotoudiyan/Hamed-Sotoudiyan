@@ -45,29 +45,14 @@ Research methodology - Data collection and analysis - Statistical analysis - OOP
         
 
 
-*2.Python/Django developer , Freelancer , Jun2020-Now :*
+*2.Software Engineer , Snapp! Express  , Aug2023- Mar2024 :*
   
-        * Developed, tested, and debugged more than 10 websites (Online Shop, Industrial Website, Charity, and some Personal Websites)
-        * Designed and configured database and backend applications and programs
-        * Interactive in providing change requests, trouble reports, and requirements collection with the client.
-        * Managed code versioning with GitHub and deployment to staging and production servers.
-        * 3 online shops successfully eliminated rental fees and boosted sales by 3.2 percent.
-        * Worked on front-end frameworks like CSS Bootstrap for the development of web applications.
-        * Experienced in working with server-side technologies including database, restful API, and MVC design patterns.
-        * The response time of the web service in one of our projects was reduced by 30 percent.
-        * Trained and supervised 2 trainees, providing training support/guidance.
-        * Developed, tested, and debugged more than 10 websites (Online Shop, Industrial Website, Charity, and some Personal Websites) 
-        * Designed and configured database and backend applications and programs 
-        * Interactive in providing change requests, trouble reports, and requirements collection with the client. 
-        * Managed code versioning with GitHub and deployment to staging and production servers. 
-        * 3 online shops successfully eliminated rental fees and boosted sales by 3.2 percent. 
-        * Worked on front-end frameworks like CSS Bootstrap for the development of web applications. 
-        * Experienced in working with server-side technologies including database, restful API, and MVC design patterns. 
-        * The response time of the web service in one of our projects was reduced by 30 percent. 
-        * Trained and supervised 2 trainees, providing training support/guidance.
-        
-        Skills: Python (Programming Language) · Django · Object-Relational Mapping (ORM) · MySQL · Django REST Framework · OAuth · HTML · Git · Testing
-  
+        * Developed and maintained The Catalog project (spanning from the homepage to the payment page) for the Snapp Express app using FastAPI and Flask, resulting in a 2.5% increase in sales conversion rates and a 40% improvement in platform response time.
+        * Engineered a dynamic Suggested Keyword API with advanced NER techniques and Elasticsearch, boosting search accuracy by 35% and increasing user engagement by 25%.
+        * Implemented comprehensive test suites, including unit, integration, and performance tests, using mock objects and test fixtures. Utilized CI pipelines to automate testing and ensure consistent quality.
+        * Designed and implemented a sophisticated product categorization system for comparative brand analysis, contributing to a 22% reduction in return rates due to improved product matching.
+        * Contributed to AI-based projects and high-performance data processing systems.
+          
 
 *2.Senior HTML5 & JS(Angular) developer , Amasys Company , Aug2017-Apr2020:*
  
