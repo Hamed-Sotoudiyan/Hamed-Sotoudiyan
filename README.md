@@ -1,11 +1,14 @@
 ### Hi there , my name is Hamed Sotoudiyan
 #### Python/Django Developer
 
-Backend (Python) developer with practical experience in the Django framework implementing range
-of business logics from E-commerce to Industrial, Personal, charity websites and others (more than 2
-years and 10 projects). Have worked in agile environments with teammates from 5 to 15 people. With
-5 years of experience and a zest for solving complex problems.
-Interested in Languages, whether human. or machine.
+As a Software Engineer, I have over 6 years of practical experience in the Software design and development
+and more than 4 years experience in the Django/Fastapi framework, implementing a range of business logics
+from E-commerce to Industrial, Personal, charity websites, and others.
+
+I have experience working with Agile methodologies, Scrum stories, and sprints with teammates 
+from 5 to 40 people. I am skilled in solving complex problems and have a passion for learning and growth. 
+I am interested in languages, whether human or machine, 
+and I am always eager to explore new technologies and frameworks.
 
 Skills: Python / Django / Django REST Framework GIT / PostgreSQL / Celery / Bootstrap / 
         Test / Docker / Django-extensions / Redis / Django-filter / OAuth
