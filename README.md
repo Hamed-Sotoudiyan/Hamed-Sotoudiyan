@@ -11,6 +11,7 @@ I am interested in languages, whether human or machine,
 and I am always eager to explore new technologies and frameworks.
 
 Skills: 
+
 Python - FastAPI - Flask - Django - NumPy - Pandas - Scikit-Learn - Pytorch - TensorFlow
 Async Programming - Message Queues (RabbitMQ, Kafka)
 SQL Server - SQLite - MySQL - PostgreSQL - Elasticsearch - Mongodb - Redis
