@@ -11,6 +11,7 @@ I am interested in languages, whether human or machine,
 and I am always eager to explore new technologies and frameworks.
 
 Skills: 
+
 Python - FastAPI - Flask - Django - NumPy - Pandas - Scikit-Learn - Pytorch - TensorFlow
 
 Async Programming - Message Queues (RabbitMQ, Kafka)
@@ -36,7 +37,15 @@ Research methodology - Data collection and analysis - Statistical analysis - OOP
 ---------------------------------------------------------------------------------------------------
 ### Work Experiences :
 
-*1.Python/Django developer , Freelancer , Jun2020-Now :*
+*1.Senior Software Engineer , Wallex , Apr2024-Now :*
+  
+        * Optimized and improved existing APIs, resulting in a significant decrease in response time by 29% and enhancing overall app performance. 
+        * Developed robust APIs for retrieving real-time pricing information on liquidity pools and tokens from decentralized exchanges. 
+        * Engineered a sophisticated token swap project using Python and Fastapi, enabling seamless cross-token transactions and improving the platform's   functionality in the DeFi ecosystem.
+        
+
+
+*2.Python/Django developer , Freelancer , Jun2020-Now :*
   
         * Developed, tested, and debugged more than 10 websites (Online Shop, Industrial Website, Charity, and some Personal Websites)
         * Designed and configured database and backend applications and programs
