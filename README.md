@@ -1,14 +1,15 @@
 ### Hi there , my name is Hamed Sotoudiyan
-#### Python/Django Developer
+#### Software Engineer  
 
-As a Software Engineer, I have over 6 years of practical experience in the Software design and development
-and more than 4 years experience in the Django/Fastapi framework, implementing a range of business logics
-from E-commerce to Industrial, Personal, charity websites, and others.
+A software engineer with over six years of experience specializing in Python, FastAPI, Flask, and Django, 
+with a focus on developing scalable web applications and optimizing backend systems. 
+I hold a BSc in Computer Engineering from Shahid Beheshti University, providing a solid foundation in 
+system design and algorithms. 
+My experience includes working within Agile methodologies, managing Scrum stories, and collaborating with 
+teams ranging from 5 to 40 members. I am adept at solving complex problems and am committed 
+to continuous learning and professional growth.
 
-I have experience working with Agile methodologies, Scrum stories, and sprints with teammates 
-from 5 to 40 people. I am skilled in solving complex problems and have a passion for learning and growth. 
-I am interested in languages, whether human or machine, 
-and I am always eager to explore new technologies and frameworks.
+I am interested in languages, whether human or machine, and I am always eager to explore new technologies and frameworks.
 
 Skills: 
 
