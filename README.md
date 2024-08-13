@@ -54,26 +54,34 @@ Research methodology - Data collection and analysis - Statistical analysis - OOP
         * Contributed to AI-based projects and high-performance data processing systems.
 
 
-*3.Software Engineer , Snapp! Express  , Aug2023- Mar2024 :*
+*3.Senior Python Developer , Amasys  , Jun2022- May2023 :*
   
-        * Developed, tested, and debugged more than 10 websites (Online Shop, Industrial Website, Charity, and some Personal Websites)
-        * Designed and configured database and backend applications and programs
-        * Interactive in providing change requests, trouble reports, and requirements collection with the client.
-        * Managed code versioning with GitHub and deployment to staging and production servers.
-        * 3 online shops successfully eliminated rental fees and boosted sales by 3.2 percent.
-        * Worked on front-end frameworks like CSS Bootstrap for the development of web applications.
-        * Experienced in working with server-side technologies including database, restful API, and MVC design patterns.
-        * The response time of the web service in one of our projects was reduced by 30 percent.
-        * Trained and supervised 2 trainees, providing training support/guidance.
+        * Led the allocation technical team, driving the development and optimization of ERP allocation modules using Python, Django, and FastAPI, while ensuring adherence to high-quality code standards and best practices.
+        * Enhanced system performance by refining Python code, optimizing database queries, and utilizing key Python libraries, achieving a 30% reduction in processing time for critical ERP allocation modules.
+        * Implemented automated testing frameworks using Python and Pytest, resulting in a 33% decrease in deployment errors and significantly improving the reliability of ERP module updates.
+        * Streamlined data processing workflows by integrating Python libraries such as Pandas and NumPy, leading to a 12% increase in data processing efficiency and faster execution times for allocation-related tasks.
+        * Mentored and guided Python developers, with a strong focus on code reviews, team collaboration, and maintaining a high standard of code quality.
           
 
-*4.Senior HTML5 & JS(Angular) developer , Amasys Company , Aug2017-Apr2020:*
+*4.Python Developer , Amasys  , May2020- May2022 :*
  
-        * Created the back-end Warehouse, and production systems, and Created UI using Javascript and HTML5/CSS.
-        * The shipping time for loading and delivering the product was reduced by 8 percent with the software.
-        * Engaged in weekly project meetings and proposed imaginative solutions.
-        * Co-authored with 3 co-workers to establish backend conventions, principles, and patterns.
-        * Collaborated with the business team to better design products based on clients' needs ( 2 sessions weekly).
+        * Developed and optimized backend components for ERP systems using Python, with a strong emphasis on Django and Django REST Framework to enhance system efficiency and scalability.
+        * Designed and maintained complex database schemas, leveraging Django ORM and MySQL to ensure high performance, data integrity, and seamless data management in ERP environments.
+        * Integrated RESTful APIs through Django REST Framework, connecting ERP modules with external services, which streamlined data exchange and enhanced system interoperability.
+        * Collaborated closely with cross-functional teams to define requirements and implement solutions, utilizing Python libraries such as Celery for task management and OAuth for secure authentication.
+        * Managed code versioning and deployment processes using Git, with a focus on ensuring continuous integration and minimizing downtime during updates.
+
+*5.Mid-Level Back End Developer , Amasys  , Sep2018- Apr2020 :*
+ 
+        * Led the backend development for Warehouse and production systems, reducing shipping time for loading and delivering products by 8% through software improvements.
+        * Co-authored backend conventions, principles, and patterns with a team of three developers to standardize coding practices.
+        * Worked closely with the business team to better design products based on client needs, conducting regular sessions to align development with business objectives.
+
+*6.Junior Back End Developer , Amasys  , Aug2017- Aug2018 :*
+
+        * Assisted in the creation of backend systems for Warehouse and production modules, contributing to UI development using JavaScript and HTML5/CSS.
+        * Participated in weekly project meetings, proposing innovative solutions and contributing to team discussions.
+        * Supported senior developers in maintaining and troubleshooting backend systems.
 
 ---------------------------------------------------------------------------------------------------
 
