@@ -14,13 +14,21 @@ I am interested in languages, whether human or machine, and I am always eager to
 Skills: 
 
 Python - FastAPI - Flask - Django - NumPy - Pandas - Scikit-Learn - Pytorch - TensorFlow
+
 Async Programming - Message Queues (RabbitMQ, Kafka)
+
 SQL Server - SQLite - MySQL - PostgreSQL - Elasticsearch - Mongodb - Redis
+
 Docker - Docker Host - Docker CLI - Docker Registry - Docker Compose - Docker Swarm
+
 GIT - Gitflow - GitLab- Github - Jenkins - CI/CD Pipelines
+
 PyTest - Unit Test - Locust - Postman - Sentry - Graylog - Grafana - Prometheus
+
 Data structures - Algorithms - System Designs - Design Patterns - Microservices Architecture
+
 API Development and Integration - RESTful Services - API Gateway - Load Balancing
+
 Research methodology - Data collection and analysis - Statistical analysis - OOP - SOLID - DRY - GOF
 
 ---------------------------------------------------------------------------------------------------
