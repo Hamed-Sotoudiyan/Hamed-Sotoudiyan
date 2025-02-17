@@ -1,34 +1,26 @@
 ### Hi there , my name is Hamed Sotoudiyan
 #### Software Engineer / Python Developer
 
-A software engineer with over six years of experience specializing in Python, FastAPI, Flask, and Django, 
+A software engineer with over 7 years of experience specializing in Python, FastAPI, Flask, and Django, 
 with a focus on developing scalable web applications and optimizing backend systems. 
-I hold a BSc in Computer Engineering from Shahid Beheshti University, providing a solid foundation in 
-system design and algorithms. 
-My experience includes working within Agile methodologies, managing Scrum stories, and collaborating with 
-teams ranging from 5 to 40 members. I am adept at solving complex problems and am committed 
-to continuous learning and professional growth.
+I hold a BSc in Computer Engineering from Shahid Beheshti University, 
+providing a solid foundation in system design and algorithms. 
+My experience includes working within Agile methodologies, managing Scrum stories, 
+and collaborating with teams ranging from 5 to 40 members. 
+I am adept at solving complex problems and am committed to continuous learning and professional growth.
 
 I am interested in languages, whether human or machine, and I am always eager to explore new technologies and frameworks.
 
 Skills: 
 
 Python - FastAPI - Flask - Django - NumPy - Pandas - Scikit-Learn - Pytorch - TensorFlow
-
 Async Programming - Message Queues (RabbitMQ, Kafka)
-
 SQL Server - SQLite - MySQL - PostgreSQL - Elasticsearch - Mongodb - Redis
-
 Docker - Docker Host - Docker CLI - Docker Registry - Docker Compose - Docker Swarm
-
 GIT - Gitflow - GitLab- Github - Jenkins - CI/CD Pipelines
-
 PyTest - Unit Test - Locust - Postman - Sentry - Graylog - Grafana - Prometheus
-
 Data structures - Algorithms - System Designs - Design Patterns - Microservices Architecture
-
 API Development and Integration - RESTful Services - API Gateway - Load Balancing
-
 Research methodology - Data collection and analysis - Statistical analysis - OOP - SOLID - DRY - GOF
 
 ---------------------------------------------------------------------------------------------------
@@ -38,11 +30,13 @@ Research methodology - Data collection and analysis - Statistical analysis - OOP
 ---------------------------------------------------------------------------------------------------
 ### Work Experiences :
 
-*1.Senior Software Engineer , Wallex , Apr2024-Now :*
+*1.Software Engineer , Wallex , Apr2024-Now :*
   
-        * Optimized and improved existing APIs, resulting in a significant decrease in response time by 29% and enhancing overall app performance. 
-        * Developed robust APIs for retrieving real-time pricing information on liquidity pools and tokens from decentralized exchanges. 
-        * Engineered a sophisticated token swap project using Python and Fastapi, enabling seamless cross-token transactions and improving the platform's   functionality in the DeFi ecosystem.
+        * Developed a PnL calculator platform based on FIFO principles, incorporating realized and unrealized asset calculations for accurate financial tracking.
+        * Engineered a real-time analytics project to compute MVRV, MVRV Z-score, realized value, and circulating value across the entire historical dataset of Bitcoin blocks.
+        * Developed high-performance APIs for retrieving real-time pricing data on liquidity pools and tokens from decentralized exchanges.
+        * Designed and built a sophisticated token swap platform using Python and FastAPI, enabling seamless cross-token transactions and improving DeFi ecosystem functionality.
+        * Optimized and enhanced existing APIs, reducing response time by 29% and significantly boosting overall application performance.
         
 
 
