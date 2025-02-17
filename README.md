@@ -89,11 +89,15 @@ Research methodology - Data collection and analysis - Statistical analysis - OOP
 ---------------------------------------------------------------------------------------------------
 
 ### Education :
+
+*1.Master's degree - Technological Entrepreneurship - University of Tehran :*
+
+  Successfully completed all coursework with high scores. (Coursework focused)
     
-*1.Bachelor's degree - Computer Engineering - Shahid Beheshti University :*
+*2.Bachelor's degree - Computer Engineering - Shahid Beheshti University :*
 
   Main Project: Designing Scenarios for Coordination and Adaption Between Different Layers of Enterprise Information Technology and Simulating them With NetLogo Software - Under Supervision of: Prof.Eslam Nazemi 
 
-*2.High School Diploma - Mathematics and Physics - National Organization for Development of Exceptional Talents (Sampad):* 
+*3.High School Diploma - Mathematics and Physics - National Organization for Development of Exceptional Talents (Sampad):* 
 
 ---------------------------------------------------------------------------------------------------
